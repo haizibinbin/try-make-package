@@ -1,0 +1,17 @@
+{
+    "name": "hbb/try-make-package",
+    "autoload": {
+        "psr-4": {
+            "Hbb\\TryMakePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hbb",
+            "email": "haizibinbin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
