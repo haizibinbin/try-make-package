@@ -3,7 +3,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hbb\\TryMakePackage\\": "src/"
+            "Hbb\\TryMakePackage\\": "src/Rose"
         }
     },
     "authors": [
